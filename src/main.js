@@ -8,7 +8,7 @@ const sha1 = require(path.join(basePath, "/node_modules/sha1"));
 const { createCanvas, loadImage } = require(path.join(
   basePath,
   "/node_modules/canvas"
-));
+)); 
 const buildDir = path.join(basePath, "/build");
 const layersDir = path.join(basePath, "/layers");
 console.log(path.join(basePath, "/src/config.js"));
