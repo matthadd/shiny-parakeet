@@ -13,9 +13,9 @@ const layerConfigurations = [
     layersOrder: [
       { name: "Background" },
       { name: "Coat" },
-      { name: "Horn" },
       { name: "Eyes" },
       { name: "Mouth" },
+      { name: "Horn" },
       { name: "Clothes" },
     ],
   },
